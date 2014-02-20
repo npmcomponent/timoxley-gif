@@ -1,0 +1,11 @@
+{
+  "name": "timoxley-gif",
+  "description": "GIF Encoder",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "timoxley-neuquant": "git://github.com/npmcomponent/timoxley-neuquant.git",
+    "timoxley-lzw": "git://github.com/npmcomponent/timoxley-lzw.git"
+  },
+  "license": "MIT"
+}

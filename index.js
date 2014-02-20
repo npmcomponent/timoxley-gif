@@ -6,8 +6,8 @@
 * @version 0.1 AS3 implementation
 */
 
-var LZWEncoder = require('lzw')
-var NeuQuant = require('neuquant')
+var LZWEncoder = require('timoxley-lzw')
+var NeuQuant = require('timoxley-neuquant')
 
 	//import flash.utils.ByteArray;
 	//import flash.display.BitmapData;
